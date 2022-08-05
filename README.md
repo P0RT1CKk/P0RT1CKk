@@ -1,14 +1,15 @@
-# Hi, I'm P0RT1CKk!
+# Olá, eu sou o P0RT1CKk!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/gui-loko)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/P0RT1CKk)
 
 
 ## About me:
 
-## My specialties:
+## Estou aprendendo:
 
-### Languages: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
+### Linguagens: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
 
+### Intretenimento: https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 
 ## What I don't know, give me a few days 😁
 
