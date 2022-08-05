@@ -3,13 +3,15 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/P0RT1CKk)
 
 
-## About me:
+## Sobre mim:
 
 ## Estou aprendendo:
 
 ### Linguagens: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
 
-### Intretenimento: <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+### Intretenimento: 
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 ## What I don't know, give me a few days 😁
 
