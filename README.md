@@ -1,7 +1,5 @@
 # Olá, eu sou o P0RT1CKk!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/P0RT1CKk)](https://github.com/P0RT1CKk)
-
 ## Estou aprendendo:
 
 ### Linguagens:  <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
